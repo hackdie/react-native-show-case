@@ -1,6 +1,9 @@
 
 # react-native-show-case
 
+![Screenshot](screenshot/image_1024.png)
+
+
 ## Getting started
 
 `$ npm install react-native-show-case --save`
