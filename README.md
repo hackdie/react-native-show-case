@@ -69,7 +69,7 @@ return (
 ```
 
 
-## Credits
+## TODO
 1) Listeners `onCasePresented`, `onCaseDismissed`
   
 
