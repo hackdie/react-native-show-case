@@ -51,8 +51,10 @@ import RNShowCase from 'react-native-show-case';
 ...
 
 componentDidMount = () => {
-    const handleId = findNodeHandle(this.superRef);
-    RNShowCase.show(handleId, 'Title', 'Description fuck yea!!!');
+   setTimeout(() => {
+      const handleId = findNodeHandle(this.superRef);
+      RNShowCase.show(handleId, 'Title', 'Description yea!!!');
+    }, 100);
 }
 
 ...
